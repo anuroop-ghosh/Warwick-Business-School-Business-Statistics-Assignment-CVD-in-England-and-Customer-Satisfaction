@@ -1,6 +1,6 @@
 ---
 title: "Business Statistics End of Term Assessment IB94X0 2024-2025 #1"
-author: '5624055'
+author: 'Anuroop Ghosh'
 output:
   pdf_document:
     toc: true
